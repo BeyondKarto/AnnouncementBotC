@@ -6,8 +6,7 @@ This Telegram bot monitors a specified YouTube channel for live streams and noti
 - Monitors YouTube live streams.
 - Sends notifications to a specified Telegram chat.
 - Provides the live stream link and description.
-- Sends a follow-up message 5 minutes after the live stream starts.
-
+- 
 #### Prerequisites
 - .NET 6.0 SDK or later
 - Telegram Bot API Token
