@@ -216,5 +216,3 @@ This project is licensed under the MIT License.
 If you have any questions or suggestions, feel free to open an issue or contact me directly.
 
 ---
-
-This README provides a comprehensive overview of the Telegram YouTube Live Stream Notifier Bot, detailing its features, installation steps, usage, and the main components of the code.
